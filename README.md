@@ -1,1 +1,2 @@
 # Analyst
+Menganalisis Data
